@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\bin\Debug\net6.0\M04CP.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\bin\Debug\net6.0\M04CP.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\bin\Debug\net6.0\M04CP.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\bin\Debug\net6.0\M04CP.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\bin\Debug\net6.0\M04CP.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\refint\M04CP.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\M04CP.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 04\M04CP\obj\Debug\net6.0\ref\M04CP.dll
